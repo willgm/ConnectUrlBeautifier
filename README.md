@@ -1,4 +1,4 @@
-Ntalk
+Connect Url Beautifier
 =====
 
-realtime web chat
+A Node Connect middleware for beautiful URLs
