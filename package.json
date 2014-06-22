@@ -1,6 +1,6 @@
 {
   "name": "url-beautifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node Connect middleware for beautiful URLs",
   "main": "./lib/urlBeautifier",
   "readmeFilename": "README.md",
