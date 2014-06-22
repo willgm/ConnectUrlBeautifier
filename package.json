@@ -1,5 +1,5 @@
 {
-  "name": "ConnectUrlBeautifier",
+  "name": "url-beautifier",
   "version": "1.0.0",
   "description": "A Node Connect middleware for beautiful URLs",
   "main": "./lib/urlBeautifier",
