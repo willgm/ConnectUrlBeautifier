@@ -1,0 +1,31 @@
+{
+  "name": "ConnectUrlBeautifier",
+  "version": "1.0.0",
+  "description": "A Node Connect middleware for beautiful URLs",
+  "main": "./lib/urlBeautifier",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register",
+    "prestart": "npm install",
+    "start": "coffee -o lib/ -c bin/"
+  },
+  "keywords": [
+    "beautiful",
+    "url",
+    "connect",
+    "middleware"
+  ],
+  "author": {
+    "name": "William Grasel",
+    "email": "will@willgm.com"
+  },
+  "devDependencies": {
+    "coffee-script": "1.7.1",
+    "mocha": "1.20.1",
+    "mockery": "1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
