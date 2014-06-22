@@ -3,6 +3,12 @@ Connect Url Beautifier
 
 > A Node Connect middleware for beautiful URLs
 
+```js
+var app = connect()
+app.use(urlBeautifier())
+http.createServer(app).listen(3000)
+```
+
 ## API
 
 #### options.basePath
